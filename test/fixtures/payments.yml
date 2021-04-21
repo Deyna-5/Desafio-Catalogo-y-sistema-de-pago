@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  payable_type: MyString
+  order: one
+  payable: one
+
+two:
+  name: MyString
+  payable_type: MyString
+  order: two
+  payable: two
